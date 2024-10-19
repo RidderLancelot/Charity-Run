@@ -1,0 +1,17 @@
+@media only screen and (max-width: 480px) {
+  * {
+    font-size: 10px;
+  }
+  header {
+    padding: 0.1em 1em;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  * {
+    font-size: 8px;
+  }
+  header {
+    padding: 0 1em;
+  }
+}
