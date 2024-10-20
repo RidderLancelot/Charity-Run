@@ -1,0 +1,35 @@
+#title {
+  text-align: center;
+}
+
+ol {
+  margin-left: 2em;
+}
+
+h4 {
+  margin: 1em 0 0.5em 0;
+  font-size: 1.7em;
+}
+
+h2 {
+  margin: 1em 0 0.1em 0;
+  font-size: 2.2em;
+}
+h1 {
+  font-size: 2.5em;
+}
+p {
+  font-size: 1.1em;
+}
+
+ol li {
+  font-size: 1.1em;
+}
+
+main {
+  padding: 0 2em;
+}
+
+#doner ol{
+  padding: 0.5em 0;
+}

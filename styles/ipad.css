@@ -5,4 +5,10 @@
   header {
     padding: 0.2em 1em;
   }
+  main {
+    margin: 1em 3em;
+  }
+  #table-nav, #takketekst{
+    margin: 0.5em 2em;
+  }
 }

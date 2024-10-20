@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color:hsl(0, 4%, 73%)
+  background-color:hsl(0, 6%, 73%)
 }
 
 p, li {
@@ -18,11 +18,11 @@ a{
 } 
 
 header {
-  height: 3rem;
+  height: 4rem;
   align-items: center;
   display: flex;
   justify-content: space-between;
-  background-color: hsl(0, 4%, 60%);
+  background-color: hsl(0, 6%, 60%);
   border-radius: 0.7em;
   padding: 0.3em 1em;
 }
@@ -35,11 +35,11 @@ header li {
   list-style-type: none;
   margin: 0.5em;
   font-weight: 600;
-  font-size: 0.9em
+  font-size: 1.1em
 }
 
 header h3 {
-  font-size: 1.5em;
+  font-size: 2em;
   font-weight: 800;
   padding-left: 0.3em
 }
@@ -59,4 +59,19 @@ footer ul {
 
 #oplevelsen-page {
   content-visibility: hidden;
+}
+main {
+  margin: 1.25em 4em;
+}
+
+.blue {
+  color: blue;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+#this {
+  color: hsl(0, 0%, 85%);
 }

@@ -5,6 +5,12 @@
   header {
     padding: 0.1em 1em;
   }
+  main {
+    margin: 0.75em 2em;
+  }
+  #table-nav, #takketekst{
+    margin: 0.5em 1em;
+  }
 }
 
 @media only screen and (max-width: 400px) {
@@ -13,5 +19,11 @@
   }
   header {
     padding: 0 1em;
+  }
+  main {
+    margin: 0.5em 1em;
+  }
+  #table-nav, #takketekst {
+    margin: 0.5em 0;
   }
 }
