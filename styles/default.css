@@ -1,15 +1,15 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: Georgia;
+  font-family: "Gill Sans";
 }
 
 body {
-  background-color:hsl(0, 6%, 73%)
+  background-color:hsl(60, 90%, 73%)
 }
 
 p, li {
-  font-family: Times;
+  font-family: "Gill Sans";
 }
 
 a{ 
@@ -22,7 +22,7 @@ header {
   align-items: center;
   display: flex;
   justify-content: space-between;
-  background-color: hsl(0, 6%, 60%);
+  background-color: hsl(0, 90%, 60%);
   border-radius: 0.7em;
   padding: 0.3em 1em;
 }
@@ -74,4 +74,8 @@ main {
 
 #this {
   color: hsl(0, 0%, 85%);
+}
+
+.hide { 
+  font-size: 0;
 }
