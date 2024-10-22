@@ -35,7 +35,7 @@ header li {
   list-style-type: none;
   margin: 0.5em;
   font-weight: 600;
-  font-size: 1.1em
+  font-size: 1.6em
 }
 
 header h3 {
@@ -52,6 +52,7 @@ footer {
 footer li {
   list-style-type: none;
   margin: 0 0.4em;
+  font-size: 2em;
 }
 footer ul {
   display: flex;
