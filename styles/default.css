@@ -57,7 +57,7 @@ footer ul {
   display: flex;
 }
 
-#oplevelsen-page {
+#oplevelsen-page, #contact-page, #inspiration-page{
   content-visibility: hidden;
 }
 main {
